@@ -1,0 +1,13 @@
+.card {
+  margin: 5px;
+  background-color: blanchedalmond;
+  transition: background-color 0.25s;
+  cursor: pointer;
+}
+.cardImage {
+  margin-top: 15px;
+}
+
+.card:hover {
+  background-color: rgb(255, 250, 244);
+}

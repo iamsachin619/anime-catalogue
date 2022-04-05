@@ -1,0 +1,41 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  color: black;
+}
+
+body {
+  background-color: rgb(233, 144, 80);
+}
+
+.Header {
+  margin-top: 25px;
+}
+
+.mainContainer {
+  margin-top: 20px;
+}
+
+.CardsContainer {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.modalImage {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.titles {
+  font-weight: bold;
+  text-align: center;
+}
+
+.loader {
+  width: 65px;
+  margin-left: auto;
+  margin-right: auto;
+}
